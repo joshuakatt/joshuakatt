@@ -10,7 +10,7 @@ This is where you can find out more about me.
 
 ## Projects
 
-### [Rubiks Cube Visualizer/Solver]()
+### [Rubiks Cube Visualizer/Solver](https://github.com/joshuakatt/Rubiks_Cube_3D_Visualizer_Solver)
 
   As a child, I always found Rubiks Cubes intriguing. 
   
