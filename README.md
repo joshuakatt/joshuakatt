@@ -12,6 +12,12 @@ This is where you can find out more about me and my work.
 
 ## Projects
 
+### Crazy Rydes Serverless 
+
+The Serverless Web Application project is a scalable and secure web app built with AWS services. It includes a serverless backend using AWS Lambda and API Gateway, user authentication with Amazon Cognito, data storage with DynamoDB, and frontend development with AWS Amplify. Get started by cloning the repo, setting up AWS resources, and deploying the app for a hands-on experience.
+
+Check out the project: [Crazyrydes](https://github.com/joshuakatt/crazyrydes-site)
+
 ### Rubiks Cube Visualizer/Solver 🧊
 
 As a child, I always found Rubik's Cubes intriguing - the infinite faces, the twisting directions, and the challenge of solving the cube. I developed this 3D visualization program using Python along with NumPy and Matplotlib.
