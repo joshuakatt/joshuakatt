@@ -1,7 +1,5 @@
 # Welcome to my Github! ✨
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuakatt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 Feel free to take a look around and explore my projects.
 
 ## Portfolio
