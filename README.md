@@ -1,6 +1,7 @@
 # Welcome to my Github! ✨
 
 Feel free to take a look around and explore my projects.
+The best way to see all I've been working on is to head over to the Repositories section of my profile. Below is just a sample few I've worked on so far!
 
 ## Portfolio
 
