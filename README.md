@@ -4,7 +4,7 @@ Feel free to take a look around and explore my projects.
 
 The best way to see all I've been working on is to head over to the Repositories section of my profile. Below is just a sample few I've worked on so far!
 
-## Portfolio
+## Portfolio (In Development) 🚀
 
 Visit my portfolio: [joshuakatt.github.io/Portfolio](https://joshuakatt.github.io/Portfolio/index.html)
 
@@ -41,7 +41,7 @@ As a child, I always found Rubik's Cubes intriguing - the infinite faces, the tw
 
 Check out the project: [Rubiks Cube Visualizer/Solver](https://github.com/joshuakatt/Rubiks_Cube_3D_Visualizer_Solver)
 
-### Amazon Clone (In Development) 🛒
+### Amazon Clone (Working, but fixes to be done) 🛒
 
 I'm currently working on building a functioning Amazon Clone with user authentication, Stripe-enabled payments, and a responsive UI using React/Redux.
 
