@@ -18,6 +18,23 @@ The Serverless Web Application project is a scalable and secure web app built wi
 
 Check out the project: [Crazyrydes](https://github.com/joshuakatt/crazyrydes-site)
 
+### Smart Slide
+Smart program to automate slide transitions in a slideshow using presenter speech as input to eliminate the need to manually change slides each time, making meetings and presentations more efficient.
+
+ML and NLP potential as well.
+
+Check it out here: [SmartSlide](https://github.com/joshuakatt/SmartSlide)
+
+### PixScout: A 2D Odyssey
+
+My first project in LUA. Never knew any LUA before this so it's still a work in progress haha.
+
+A 2D game with animated sprites, follow-around camera, and in-game physics. 
+
+Now implemented modular game loading to allow users to load different games from menu.
+
+Check it out here: [PixScout](https://github.com/joshuakatt/PixScout-A-2D-Odyssey)
+
 ### Rubiks Cube Visualizer/Solver 🧊
 
 As a child, I always found Rubik's Cubes intriguing - the infinite faces, the twisting directions, and the challenge of solving the cube. I developed this 3D visualization program using Python along with NumPy and Matplotlib.
