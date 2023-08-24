@@ -6,7 +6,7 @@ The best way to see all I've been working on is to head over to the Repositories
 
 ## Portfolio (In Development) 🚀
 
-Visit my portfolio: [joshuakatt.github.io/Portfolio](https://joshuakatt.github.io/Portfolio/index.html)
+Visit my portfolio: [joshuakattapuram.com](https://joshuakattapuram.com)
 
 This is where you can find out more about me and my work.
 
