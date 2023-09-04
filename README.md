@@ -12,9 +12,15 @@ This is where you can find out more about me and my work.
 
 ## Projects
 
+### edified.io
+
+Intelligent note taking with the power of Generative AI, summarization, and topic detection features. Built on NextJS and backend built with Python's Flask. Containerized on Docker, and deployed on Azure Kubernetes Service.
+
+Check out the project: [code](https://github.com/joshuakatt/edified.io) [edified.io](http://20.242.138.31/)
+
 ### Crazy Rydes Serverless 
 
-The Serverless Web Application project is a scalable and secure web app built with AWS services. It includes a serverless backend using AWS Lambda and API Gateway, user authentication with Amazon Cognito, data storage with DynamoDB, and frontend development with AWS Amplify. Get started by cloning the repo, setting up AWS resources, and deploying the app for a hands-on experience.
+The Serverless Web Application project includes a serverless backend using AWS Lambda and API Gateway, user authentication with Amazon Cognito, data storage with DynamoDB, and frontend development with AWS Amplify. Get started by cloning the repo, setting up AWS resources, and deploying the app for a hands-on experience.
 
 Check out the project: [Crazyrydes](https://github.com/joshuakatt/crazyrydes-site)
 
