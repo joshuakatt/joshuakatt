@@ -10,13 +10,13 @@ Visit my portfolio: [joshuakattapuram.com](https://joshuakattapuram.com)
 
 This is where you can find out more about me and my work.
 
-## Projects
+## Featured Projects
 
 ### edified.io
 
 Intelligent note taking with the power of Generative AI, summarization, and topic detection features. Built on NextJS and backend built with Python's Flask. Containerized on Docker, and deployed on Azure Kubernetes Service.
 
-Check out the project: [code](https://github.com/joshuakatt/edified.io) [edified.io](http://20.242.138.31/)
+Check out the project: [code](https://github.com/joshuakatt/edified.io) | [edified.io](http://20.242.138.31/)
 
 ### Crazy Rydes Serverless 
 
